@@ -25,8 +25,6 @@ cd your-repo-name
 ### 2. Install Dependencies
 
 ```bash
-Copy
-Edit
 npm install
 ```
 
