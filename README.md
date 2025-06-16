@@ -40,7 +40,7 @@ MONGO_URI=your_mongodb_connection_string
 
 ### 4. Start the Server
 
-Run the command
+Run the command and the app starts up on the port 5000 of the local machine server.
 ```bash
 npm start
 ```
